@@ -20,7 +20,7 @@ def monopoly_with_third_tier
       rent_in_dollars: {
         k1: 1 ,
         one_piece_owned: 25,
-        two_piece_owned: 50 ,
+        two_piece_owned: 50,
         k4: 4  },
         names: {
           p1: 1 ,
