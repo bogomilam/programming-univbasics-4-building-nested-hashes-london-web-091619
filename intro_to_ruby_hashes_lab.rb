@@ -22,7 +22,12 @@ def monopoly_with_third_tier
         k2: 2 ,
         k3: 3 ,
         k4: 4  },
-        names: [ ]
+        names: {
+          p1: 1 ,
+          p2: 2 ,
+          p3; 3 ,
+          p4: 4
+        }
     }
   }
 end
