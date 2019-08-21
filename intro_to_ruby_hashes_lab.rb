@@ -1,6 +1,6 @@
 def base_hash
   me_hash = {
-    name: "bogo"
+    railroads: "bogo"
   }
 end
 
